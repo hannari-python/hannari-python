@@ -42,6 +42,16 @@
 
 ---
 
+## お知らせ
+
+### ブログ始めました！
+
+https://hannaripython.hatenadiary.com/
+
+### \#kyotopy ツイートしてね！
+
+---
+
 ## 機材協力
 
 ### [株式会社スプーキーズ@京都](http://spookies.co.jp/)
