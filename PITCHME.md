@@ -146,10 +146,16 @@ https://hannaripython.hatenadiary.com/
 
 - 〇〇やってみた
 - 機械学習
+- ライブラリの紹介
+
+
+---
+
+## 勉強会の内容
 
 ### ハンズオンの会
 
-- 問題を解くコーディング
+- みんなでコーディング（問題を解く）
 - スクレイピング
 - Dashで可視化
 
@@ -162,7 +168,15 @@ https://hannaripython.hatenadiary.com/
 - 初学者向けのテーマ
 - お互いにサポート
 
-今年はこういう会も増やしたい
+今年はこういう会もやっていきたい
+
+---
+
+### ブログ始めました！
+
+https://hannaripython.hatenadiary.com/
+
+### \#kyotopy ツイートしてね！
 
 ---
 
