@@ -2,16 +2,16 @@
 
 ---
 
-## はんなりPython #14
+## はんなりPython #15
 
-### 2019/02/15
+### 2019/03/15
 
 ---
 
 ## 活動内容
 
 - 毎月第3金曜日に勉強会開催
-- 次回は 3/15
+- 次回は 4/19
 
 ---
 
@@ -53,7 +53,7 @@ https://hannaripython.hatenadiary.com/
 
 ## 会場協力
 
-### [NOTA Inc.](https://www.notainc.com/ja)
+### [株式会社スプーキーズ](https://www.spookies.co.jp/)
 
 ---
 
@@ -77,9 +77,8 @@ https://hannaripython.hatenadiary.com/
 ## 本日の予定
 
 - アイスブレイク
-- 19:45 発表
-- 20:30 休憩
-- 20:40 発表
+- 19:45 LT 
+- 20:00 Pandas Hands On 
 - 21:25 閉会
 - 21:30 懇親会!!
 
