@@ -55,6 +55,10 @@ https://hannaripython.hatenadiary.com/
 
 ### [株式会社スプーキーズ](https://www.spookies.co.jp/)
 
+## お菓子スポンサー
+
+### [Nota Inc.](https://notainc.com/)
+
 ---
 
 ## スポンサー募集中
