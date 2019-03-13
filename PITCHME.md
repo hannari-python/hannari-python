@@ -47,7 +47,7 @@
 
 https://hannaripython.hatenadiary.com/
 
-### \#kyotopy ツイートしてね！
+### \#kyotopy \#スプーキーズ ツイートしてね！
 
 ---
 
