@@ -2,16 +2,16 @@
 
 ---
 
-## はんなりPython #15
+## はんなりPython #17
 
-### 2019/03/15
+### 2019/05/17
 
 ---
 
 ## 活動内容
 
 - 毎月第3金曜日に勉強会開催
-- 次回は 4/19
+- 次回は 6/21 Pandas Hands On おかわり
 
 ---
 
@@ -47,17 +47,15 @@
 
 https://hannaripython.hatenadiary.com/
 
-### \#kyotopy \#スプーキーズ ツイートしてね！
+### \#はんなりPython \#マネフォワード ツイートしてね！
 
 ---
 
 ## 会場協力
 
-### [株式会社スプーキーズ](https://www.spookies.co.jp/)
+### [株式会社マネーフォワード](https://moneyforward.com/)
 
-## お菓子スポンサー
-
-### [Nota Inc.](https://notainc.com/)
+### 今後ともぜひともよろしくお願いいたします！！
 
 ---
 
@@ -81,8 +79,8 @@ https://hannaripython.hatenadiary.com/
 ## 本日の予定
 
 - アイスブレイク
-- 19:45 LT 
-- 20:00 Pandas Hands On 
+- 19:45 LT  
+- 21:00 雑談タイム
 - 21:25 閉会
 - 21:30 懇親会!!
 
