@@ -79,9 +79,9 @@ https://hannaripython.hatenadiary.com/
 
 ## Python Kansai
 
-## 2019/07/14 sun
+### 2019/07/14 sun
 
-### トーク3本とLT6本と交流
+#### トーク3本とLT6本と交流
 
 - 飯坂さん　Daskについて
 - 染田さん　エッジAIとPython
