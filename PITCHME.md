@@ -79,8 +79,8 @@ https://hannaripython.hatenadiary.com/
 
 ## Python Kansai
 
-### 2019/07/14 sun
-
+### 2019/07/14 sun 14:00-17:30 
+#### 場所：グランフロント大阪　大阪イノベーションハブ
 #### トーク3本とLT6本と交流
 
 - 飯坂さん　Daskについて
