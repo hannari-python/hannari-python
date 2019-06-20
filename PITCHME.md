@@ -2,16 +2,17 @@
 
 ---
 
-## はんなりPython #17
+## はんなりPython #18
+## Pandas Hands On 02
 
-### 2019/05/17
+### 2019/06/21
 
 ---
 
 ## 活動内容
 
 - 毎月第3金曜日に勉強会開催
-- 次回は 6/21 Pandas Hands On おかわり
+- 次回は 7/19  ディスカッション会 Sansanさん
 
 ---
 
@@ -47,13 +48,13 @@
 
 https://hannaripython.hatenadiary.com/
 
-### \#はんなりPython \#マネフォワード ツイートしてね！
+### \#はんなりPython \#スプーキーズ ツイートしてね！
 
 ---
 
 ## 会場協力
 
-### [株式会社マネーフォワード](https://moneyforward.com/)
+### [株式会社スプーキーズ](https://www.spookies.co.jp/)
 
 ### 今後ともぜひともよろしくお願いいたします！！
 
@@ -73,6 +74,18 @@ https://hannaripython.hatenadiary.com/
 - 当日の司会進行
 - **なるべく多く出席する **
 - etc
+
+---
+
+## Python Kansai
+
+## 2019/07/14 sun
+
+### トーク3本とLT6本と交流
+
+- 飯坂さん　Daskについて
+- 染田さん　エッジAIとPython
+- 古崎さん　Linked Open Dataについて
 
 ---
 
