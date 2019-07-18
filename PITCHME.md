@@ -111,8 +111,6 @@ https://scrapbox.io/hannari-python/
 
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-l4iIsw1hl9E1a7K4-aUJQm_GAttwMVifOUXudRK77KkJ-A/viewform?embedded=true" width="640" height="1149" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
 ---
 
 ---
