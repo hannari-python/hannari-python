@@ -2,18 +2,19 @@
 
 ---
 
-## はんなりPython #18
-## Pandas Hands On 02
+## はんなりPython #19
+## ディスカッション会
 
-### 2019/06/21
+### 2019/07/19
 
 ---
 
 ## 活動内容
 
 - 毎月第3金曜日に勉強会開催
-- 次回は 7/19  ディスカッション会 Sansanさん
-- 8月は夏休み、9月はLT会
+- 次回は 9/20  LT会  会場未定(8月は夏休み！！暑いのに働いちゃだめ！)
+- LT会はなんとトップ3にアマゾンギフト券を！！
+- 発表枠は6かなぁ。じゃんじゃん応募ください！！
 
 ---
 
@@ -49,15 +50,19 @@
 
 https://hannaripython.hatenadiary.com/
 
-### \#はんなりPython \#スプーキーズ ツイートしてね！
+### \#はんなりPython \#Sansanさん ツイートしてね！
+
+### Scrapbox
+
+https://scrapbox.io/hannari-python/
 
 ---
 
 ## 会場協力
 
-### [株式会社スプーキーズ](https://www.spookies.co.jp/)
+### [Sansan Inovation Lab](https://jp.corp-sansan.com/sil/)
 
-### 今後ともぜひともよろしくお願いいたします！！
+### 今後ともよろしくお願いいたします！！
 
 ---
 
@@ -69,24 +74,13 @@ https://hannaripython.hatenadiary.com/
 
 ## 運営メンバー募集中
 
+### クナイさんに続き熊ちゃんまで・・・
 - 会場の確保
 - イベント情報の公開
 - 当日の受付
 - 当日の司会進行
 - **なるべく多く出席する **
 - etc
-
----
-
-## Python Kansai
-
-### 2019/07/14 sun 14:00-17:30 
-#### 場所：グランフロント大阪　大阪イノベーションハブ
-#### トーク3本とLT6本と交流
-
-- 飯坂さん　Daskについて
-- 染田さん　エッジAIとPython
-- 古崎さん　Linked Open Dataについて
 
 ---
 
@@ -116,6 +110,8 @@ https://hannaripython.hatenadiary.com/
 ## 楽しんでいきましょう
 
 ---
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-l4iIsw1hl9E1a7K4-aUJQm_GAttwMVifOUXudRK77KkJ-A/viewform?embedded=true" width="640" height="1149" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ---
 
