@@ -29,8 +29,8 @@
 
 ## 行動規範
 
-- PyCon2018 準拠
-- [https://pycon.jp/2018/code-of-conduct](https://pycon.jp/2018/code-of-conduct)
+- PyCon2019 準拠
+- [https://pycon.jp/2019/code-of-conduct.html](https://pycon.jp/2019/code-of-conduct.html)
 - ハラスメント行為はやめましょう
 
 ---
