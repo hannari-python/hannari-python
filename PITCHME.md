@@ -50,7 +50,7 @@
 
 https://hannaripython.hatenadiary.com/
 
-### \#はんなりPython \#Sansanさん ツイートしてね！
+### \#はんなりPython \#33SIL ツイートしてね！
 
 ### Scrapbox
 
