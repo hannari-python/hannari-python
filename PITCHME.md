@@ -92,6 +92,11 @@ https://scrapbox.io/hannari-python/
 - @chaoi さん　「匿名化データセットから個人再特定化の可能性はどれくらいあるか？一論文紹介」
 - @hiroya_akita さん 「Python でも型をつけたいだけの人生だった」
 - @hahaharock さん　「GCP サーバレスにかんして」
+
+---
+
+## 本日の予定２
+
 - おやつタイム
 - @vi_northman さん　「NVIDIA Jetson Nano ためしてみた」
 - @M.Nishimura さん　「Python でテキスト触ってみた」
