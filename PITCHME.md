@@ -62,7 +62,7 @@ https://scrapbox.io/hannari-python/
 
 ### [スプーキーズさん](https://www.spookies.co.jp/)
 
-### 今後ともよろしくお願いいたします！！
+### いつもありがとうございます。今後ともよろしくお願いいたします！！
 
 ---
 
