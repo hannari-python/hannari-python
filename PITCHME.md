@@ -50,7 +50,7 @@
 
 https://hannaripython.hatenadiary.com/
 
-### \#はんなり Python \#MoneyFoward でツイートしてね！
+### \#はんなり Python \#マネーフォワード でツイートしてね！
 
 ### Scrapbox
 
