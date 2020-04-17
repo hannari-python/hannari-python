@@ -13,9 +13,8 @@
 ## 活動内容
 
 - 毎月第 3 金曜日に勉強会開催
-- 次回は 4/17 発表(LT)会
-    - LT大募集中！！
-
+- 次回は 4/29 Dash Hands On
+- 5/13 kozo2さんの Dash BioとDashコンポーネント作成のハンズオン
 - ハンズオンしたい方など企画も募集中！！！
 
 ---
@@ -51,9 +50,7 @@
 
 ## 投げ銭のお願い
 
-![](https://gyazo.com/379a6b382d44e140b3e36d751ccd92e2/thumb/1000)
-![](https://gyazo.com/ca600a16755c3eefb79597037761d381/thumb/1000)
-
+![](https://gyazo.com/dc1968fda6a2c1f2169887fba2dbbc28/thumb/1000)
 - 運営費
 - Zoomライセンス料
 
