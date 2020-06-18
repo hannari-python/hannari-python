@@ -4,9 +4,9 @@
 
 ## はんなりPythonの会
 
-## Dash Hands On #07
+## #29 LT会
 
-### 2020/06/17
+### 2020/06/19
 
 ---
 
@@ -14,7 +14,11 @@
 
 - 毎月第 3 金曜日に勉強会開催
 - https://hannari-python.connpass.com/
-- LT会が6月19日あるらしいですよ。スポンサーにフォークウェルさんがついてくれるらしいので、いいことあるかも
+- 明日　ゼロから実践する　遺伝統計学セミナー
+- 22日　deck.glモクモク会
+- 24日  At Coder部
+- 7/1  わいわいDashboardを作ろう会
+- 7/10 Hanpy Dojo with kyoto.rb
 
 ---
 
@@ -35,6 +39,12 @@
 - ハラスメント行為はやめましょう
 - カメラの映り込みに注意
 
+---
+
+## スポンサー
+
+![forkwell](meetup/forkwell.png)
+- https://forkwell.com/
 
 ---
 
