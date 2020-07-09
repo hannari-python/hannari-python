@@ -4,9 +4,9 @@
 
 ## はんなりPythonの会
 
-## #29 LT会
+## #30 Hanpy Dojo With Kyoto.rb
 
-### 2020/06/19
+### 2020/07/10
 
 ---
 
@@ -14,11 +14,10 @@
 
 - 毎月第 3 金曜日に勉強会開催
 - https://hannari-python.connpass.com/
-- 明日　ゼロから実践する　遺伝統計学セミナー
-- 22日　deck.glモクモク会
-- 24日  At Coder部
-- 7/1  わいわいDashboardを作ろう会
-- 7/10 Hanpy Dojo with kyoto.rb
+- 7/14　Dash Handson #9
+- 7/17　はんなりPython #31 LT会
+- 7/29　AtCoder部 #6
+- 8/07　FastAPI ハンズオン
 
 ---
 
@@ -41,10 +40,14 @@
 
 ---
 
+<!--
+
 ## スポンサー
 
 ![forkwell](meetup/forkwell.png)
 - https://forkwell.com/
+
+-->
 
 ---
 
@@ -121,11 +124,11 @@ https://scrapbox.io/hannari-python/
 ## 本日の予定
 
 - 21:00 　オープン
-- 21:05 　アイスブレイク/自己紹介
-- 21:15 　ハンズオン開始
-- 23:00 　終了
-- 23:00 　オンライン交流会（ビール）
-
+- 21:05 　Kyoto.rb 紹介
+- 21:10 　アイスブレイク/自己紹介
+- 21:15 　Dojo オープン
+- 23:00 　回答例など発表
+- 23:30 　終了・オンライン交流会（ビール）
 
 ---
 
@@ -145,6 +148,7 @@ https://scrapbox.io/hannari-python/
 - 良い方法をみつけよう
 - 人格否定はしない
 - 考え方を共有しよう
+
 
 ---
 
