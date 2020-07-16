@@ -60,6 +60,10 @@
 - 運営費
 - Zoomライセンス料
 
+- [2020年はんなりPythonの会はこう変わる](https://hannaripython.hatenadiary.com/entry/2020/02/01/2020%E5%B9%B4_%E3%81%AF%E3%82%93%E3%81%AA%E3%82%8APython%E3%81%AE%E4%BC%9A%E3%81%AF%E3%81%93%E3%81%86%E5%A4%89%E3%82%8F%E3%82%8B)
+- [pycharityスポンサー](https://hannaripython.hatenadiary.com/entry/2020/07/09/pycharity)
+
+
 ---
 
 ## 写真撮影のお願い
