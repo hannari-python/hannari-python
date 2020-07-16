@@ -4,9 +4,9 @@
 
 ## はんなりPythonの会
 
-## #30 Hanpy Dojo With Kyoto.rb
+## #31 LT会
 
-### 2020/07/10
+### 2020/07/17
 
 ---
 
@@ -14,10 +14,6 @@
 
 - 毎月第 3 金曜日に勉強会開催
 - https://hannari-python.connpass.com/
-- 7/14　Dash Handson #9
-- 7/17　はんなりPython #31 LT会
-- 7/29　AtCoder部 #6
-- 8/07　FastAPI ハンズオン
 
 ---
 
@@ -40,14 +36,12 @@
 
 ---
 
-<!--
 
 ## スポンサー
 
 ![forkwell](meetup/forkwell.png)
 - https://forkwell.com/
 
--->
 
 ---
 
